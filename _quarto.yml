@@ -1,13 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "grs-conlang"
+  title: "Making a language"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: syllabus.html
+        text: Syllabus
+      - href: assessment.html
+        text: Assessment
 
 format:
   html:
@@ -17,3 +21,4 @@ format:
 
 editor: visual
 
+callout-icon: false

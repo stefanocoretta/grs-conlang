@@ -1,0 +1,43 @@
+---
+title: "Syllabus"
+editor: visual
+---
+
+Here you can find a more detailed syllabus of the course.
+
+Please not that I expect that you come to any week's class prepared, i.e. having read the week's suggested readings and having completed the week's homework, as detailed below.
+
+## Week 1
+
+There is no class on Week 1.
+
+## Week 2: Conlanging and the languages of the world
+
+:::{.callout-tip collapse="false"}
+## Readings
+
+- [Conlanging 101](https://conlang.org/26c3.pdf) by Sai Emrys, Alex Fink and David Peterson.
+  - An introduction to *conlanging*, the art of constructing artificial languages.
+- Language Construction Kit, Ch *The overall process*.
+- Croft, Bill. 2002. *Typology and universals*. Ch 1.
+- Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 1.
+:::
+
+:::{.callout-warning collapse="false"}
+## Homework
+
+- Pick a language you are curious about and find a descriptive grammar of that language in the library.
+- You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
+- Remember to bring the descriptive grammar to class.
+:::
+
+
+## Week 3: Sound systems
+
+## Week 4: The lexicon
+## Week 5: Events, actions and verbs
+## Week 6: Objects and nouns
+## Week 7: Basic clauses
+## Week 8: Modification and subordination
+## Week 9: Reference grammars
+## Week 10: Writing systems
