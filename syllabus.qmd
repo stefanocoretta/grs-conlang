@@ -5,7 +5,16 @@ editor: visual
 
 Here you can find a more detailed syllabus of the course.
 
-Please not that I expect that you come to any week's class prepared, i.e. having read the week's suggested readings and having completed the week's homework, as detailed below.
+Please note that I expect you to come to any week's class **prepared**, which is:
+
+1. Having read that week's **readings** and
+2. Having completed that week's **homework**, as detailed below.
+
+**Formative assessments** are due at noon on the day of the seminar.
+These are designed for you to receive feedback on parts of your conlang's reference grammar (which will be built in into your second summative assessment). Note that formative assessments are based on the topic of the previous week.
+
+More information on formative and summative assessments can be found on the [Assessment](assessment.html) page.
+
 
 ## Week 1
 
@@ -13,31 +22,86 @@ There is no class on Week 1.
 
 ## Week 2: Conlanging and the languages of the world
 
-:::{.callout-tip collapse="false"}
+::: {.callout-tip collapse="false"}
 ## Readings
 
-- [Conlanging 101](https://conlang.org/26c3.pdf) by Sai Emrys, Alex Fink and David Peterson.
-  - An introduction to *conlanging*, the art of constructing artificial languages.
-- Language Construction Kit, Ch *The overall process*.
-- Croft, Bill. 2002. *Typology and universals*. Ch 1.
-- Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 1.
+-   [Conlanging 101](https://conlang.org/26c3.pdf) by Sai Emrys, Alex Fink and David Peterson.
+    -   An introduction to *conlanging*, the art of constructing artificial languages.
+-   The Language Construction Kit (LCK), Ch *The overall process*.
+    -   The LCK is the go-to book to teach yourself how to build a *conlang* from scratch. The Chapter *The overall process* gives you an overview of the entire conlanging process.
+-   Croft, Bill. 2003. *Typology and universals*. Ch 1.
+    -   Classical book on linguistic typology (and typological linguistics). The first chapter introduces you to typological linguistics. Pay special attention to the *problem of cross-linguistic variability*.
+-   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 1.
+    -   Writing a reference grammar is an art and a science in itself. This textbook covers the main practical aspects of how to go about writing a grammar. Chapter one focusses on what a reference grammar is and its structure and offers guidance on linguistic analysis and argumentation.
 :::
 
-:::{.callout-warning collapse="false"}
+::: {.callout-warning collapse="false"}
 ## Homework
 
-- Pick a language you are curious about and find a descriptive grammar of that language in the library.
-- You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
-- Remember to bring the descriptive grammar to class.
+-   Pick a language you are curious about and find a descriptive grammar of that language in the library.
+-   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
+-   Remember to bring the descriptive grammar to class.
 :::
-
 
 ## Week 3: Sound systems
 
+::: {.callout-important collapse="true"}
+## Formative 1: Language context
+
+Submit **one or two paragraphs of language context** for your conlang. Remember to give a name to your conlang (you can change this later).
+
+- A *language context article* can include "information about speaker demography, social organisation, culture, linguistic ecology, language vitality, and language use and transmission in the local community, its diaspora and the Internet, discussion of the range of languages/varieties in use by speakers, including socio-cultural factors affecting language/variety choice".
+- A more detailed description of language context articles can be found here: <http://www.elpublishing.org/about-language-contexts>. Remember that you are supposed to **write only one or two paragraphs**.
+- To find inspiration, check the language context papers at <http://www.elpublishing.org/language-contexts>.
+:::
+
+::: {.callout-tip collapse="true"}
+## Readings
+
+- How to Create a Language, Ch [Sounds](https://www.angelfire.com/scifi2/nyh/how__all.html).
+- Gordon, Matthew. 2016. *Phonological typology*. Ch 3.
+:::
+
+::: {.callout-warning collapse="true"}
+## Homework
+
+- Find the phonemic inventories of two languages that are related to the "adopted language" you picked in Week 2.
+- Check out phonemic inventory tendencies on the [Universals Archive](https://typo.uni-konstanz.de/rara/category/universals-archive/).
+:::
+
 ## Week 4: The lexicon
+
+::: {.callout-important collapse="true"}
+## Formative 2: Phonemic inventory
+
+Submit the phonemic inventory of your conlang.
+
+- This should include at least a table of consonants and a table of vowels, plus a description of the major allophones of the consonantal and vocalic phonemes.
+- You can also include information on phonemic vowel/consonant sequences (if they exist in your conlang).
+- Feel free to expand on any aspect of the sound system of your conlang.
+:::
+
+::: {.callout-tip collapse="true"}
+## Readings
+
+- LCK, Ch *Word building*.
+- Haspelmath, Martin. 2010. *Understanding morphology*. Ch 2.
+:::
+
+::: {.callout-warning collapse="true"}
+## Homework
+
+- Which word classes are there in your adopted language?
+:::
+
 ## Week 5: Events, actions and verbs
+
 ## Week 6: Objects and nouns
+
 ## Week 7: Basic clauses
+
 ## Week 8: Modification and subordination
+
 ## Week 9: Reference grammars
+
 ## Week 10: Writing systems
