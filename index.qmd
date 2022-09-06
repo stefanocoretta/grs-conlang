@@ -6,6 +6,14 @@ Welcome to the site of the Guided Research seminar *Making a language: conlangin
 
 Here you can find the course overview. For more details check the [Syllabus](syllabus.html) and the [Assessment](assessment.html) page.
 
+## Course description
+
+In this seminar, you will learn about linguistic diversity and typology of a variety of structures at many linguistic levels (phonology, morphology, syntax, etc) through the process of creating a constructed language, or *conlang*.
+
+The seminar is built around the task of crafting a conlang from the ground up while researching common and rare linguistic patterns as found in the languages of the world. With the typological knowledge you will acquire by consulting grammars and linguistic overviews, you will learn how to put together a basic grammar for your own conlang and how to write a grammar sketch.
+
+The seminar will be assessed on the basis of the grammar sketch of your designed conlang, including a short written passage in your conlang accompanied by interlinear glossing. See the [Assesment](assessment.html) page for details.
+
 ## Course overview
 
 ```{=html}

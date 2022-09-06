@@ -7,11 +7,25 @@
     "text": "Welcome to the site of the Guided Research seminar Making a language: conlanging and linguistic typology.\nHere you can find the course overview. For more details check the Syllabus and the Assessment page."
   },
   {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "GR Seminar — Making a language",
+    "section": "Course description",
+    "text": "Course description\nIn this seminar, you will learn about linguistic diversity and typology of a variety of structures at many linguistic levels (phonology, morphology, syntax, etc) through the process of creating a constructed language, or conlang.\nThe seminar is built around the task of crafting a conlang from the ground up while researching common and rare linguistic patterns as found in the languages of the world. With the typological knowledge you will acquire by consulting grammars and linguistic overviews, you will learn how to put together a basic grammar for your own conlang and how to write a grammar sketch.\nThe seminar will be assessed on the basis of the grammar sketch of your designed conlang, including a short written passage in your conlang accompanied by interlinear glossing. See the Assesment page for details."
+  },
+  {
     "objectID": "index.html#course-overview",
     "href": "index.html#course-overview",
     "title": "GR Seminar — Making a language",
     "section": "Course overview",
     "text": "Course overview\n\nWeekTopicReadingFormativeSummative12Conlanging and languages of the world- Conlanging 101 - LCK, Ch The overall process- Croft 2003, Ch 1- Aikhenvald 2015, Ch 13Sound systems-  How to create a language, Ch Sounds - Gordon 2016, Ch 3F1: Language Context 4The lexicon (phonotactics, stress, word classes)- LCK, Ch Word building- Haspelmath 2010, Ch 2F2: Phonemic inventory5Events, actions and verbs- Aikenvald 2014, Ch 7- Croft 2022, Ch 2F3: Swadesh list6Objects and nouns- Haspelmath 2010, Ch 5F4: Verbal morphosyntax7Basic clauses- Croft 2003, Ch 5.5- Cristofaro 2012, Sec 1-28Modification and subordination- Croft 2022, Ch 4S1 (Nov 10) based on weeks 2-49Reference grammarsF5: Nouns and Basic clauses10Writing systemsF6: Interlinear gloss111213S2 (Dec 15) based on weeks 2-10"
+  },
+  {
+    "objectID": "index.html#reading-list",
+    "href": "index.html#reading-list",
+    "title": "GR Seminar — Making a language",
+    "section": "Reading list",
+    "text": "Reading list\nThe reading list for this seminar can be found here."
   },
   {
     "objectID": "about.html",
@@ -98,10 +112,24 @@
     "text": "Week 10: Writing systems"
   },
   {
-    "objectID": "index.html#reading-list",
-    "href": "index.html#reading-list",
-    "title": "GR Seminar — Making a language",
-    "section": "Reading list",
-    "text": "Reading list\nThe reading list for this seminar can be found here."
+    "objectID": "assessment.html",
+    "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "This course will be assessed on the basis of a set of formative assessments and two summative assessments.\nFormative assessments are assessments for which you might receive feedback on, but which will not be marked. These will give you a chance to keep on track with the course contents and get interim feedback (or feedforward) that will better prepare you for the summative assessments.\nYou will have to submit two summative assessments. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).\n\nSummative assessment 1 (SA1): Sketch grammar draft\n\nWord limit: 1500. 30% over is allowed.\nDue date: Thursday 10 November 2022 at noon (Week 8).\n\nSummative assessment 2 (SA2): Sketch grammar and glossed text\n\nWord limit: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.\nDue date: Thursday 15 December 2022 at noon (Week 13). TBA\n\n\nSee below for details."
+  },
+  {
+    "objectID": "assessment.html#formative-assessments",
+    "href": "assessment.html#formative-assessments",
+    "title": "Assessment",
+    "section": "Formative assessments",
+    "text": "Formative assessments\nThere are 6 formative assessments, due on the Thursday of Week 3-6 and 9-10. There are no formative assessments due in Weeks 1, 7-8.\nMore details and instructions for each formative assessment can be found in the relevant section on the Syllabus page."
+  },
+  {
+    "objectID": "assessment.html#summative-assessments",
+    "href": "assessment.html#summative-assessments",
+    "title": "Assessment",
+    "section": "Summative assessments",
+    "text": "Summative assessments\n\n\n\n\n\n\nSA1: Draft of sketch grammar due on 10 Nov 2022\n\n\n\n\n\n1500 words ±30%.\n\nBased on Weeks 2-4.\nYou should submit a draft of the sketch grammar of the conlang you are creating. The draft should contain at least the following sections:\n\nLanguage context.\nPhonology.\nLexicon (for example, overview of word classes).\n\nWhat you are expected to include in the section is the same as with the corresponding formative assessments, so please refer to the instructions of those on the Syllabus page.\nFurthermore, you are expected to follow writing style and formatting conventions as used in the field of linguistics. A good summary of most of these can be found in the Generic Style Rules for Linguistics.\n\n\n\n\n\n\n\n\n\n\nSA1: Sketch grammar and glossed text due on ? Dec 2022\n\n\n\n\n\n2500 words ±15% (UG, PG 10 credits); 4000 words ±15% (PG 20 credits).\n\nBased on Weeks 2-10.\nMore info soon!"
   }
 ]
