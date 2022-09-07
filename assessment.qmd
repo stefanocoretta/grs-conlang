@@ -21,7 +21,7 @@ You will have to submit two **summative assessments**. These assessments will be
 
     -   **Word limit**: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.
 
-    -   ~~Due date: Thursday 15 December 2022 at noon (Week 13).~~ **TBA**
+    -   Due date: Thursday 15 December 2022 at noon (Week 13).
 
 See below for details.
 
@@ -33,7 +33,7 @@ More details and instructions for each formative assessment can be found in the 
 
 ## Summative assessments
 
-::: {.callout-important collapse="false"}
+::: {.callout-important collapse="true"}
 ## SA1: Draft of sketch grammar **due on 10 Nov 2022**
 
 **1500 words ±30%.**
@@ -48,11 +48,10 @@ More details and instructions for each formative assessment can be found in the 
 :::
 
 ::: {.callout-important collapse="true"}
-## SA1: Sketch grammar and glossed text **due on ? Dec 2022**
+## SA2: Sketch grammar and glossed text **due on 15 Dec 2022**
 
 **2500 words ±15%** (UG, PG 10 credits); **4000 words ±15%** (PG 20 credits)**.**
 
 -   Based on **Weeks 2-10**.
 -   More info soon!
 :::
-

@@ -74,49 +74,56 @@
     "href": "syllabus.html#week-5-events-actions-and-verbs",
     "title": "Syllabus",
     "section": "Week 5: Events, actions and verbs",
-    "text": "Week 5: Events, actions and verbs"
+    "text": "Week 5: Events, actions and verbs\n\n\n\n\n\n\nFormative 3: Swadesh list\n\n\n\n\n\nSubmit a Swadesh list of your conlang with a paragraph describing the main features of the lexicon.\n\nPlease, use this template.\nIt is up to you how many words you wish to submit, but you should include at least 25 words and words from at least 5 categories.\nAt a minimum you should include the phonemic transcription and the part of speech of your chosen words.\nIf you already have a writing system/transliteration/transcription system in mind, you can also include that.\n\n\n\n\n\n\n\n\n\n\nReadings\n\n\n\n\n\n\nAikhenvald, Alexandra. 2014. The art of grammar: A practical guide. Ch 7.\nCroft, William. 2022. Morphosyntax: Constructions of the world’s languages. Ch 2.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nWhat characteristics of verbs in the adopted language you picked caught your attention and why?"
   },
   {
     "objectID": "syllabus.html#week-6-objects-and-nouns",
     "href": "syllabus.html#week-6-objects-and-nouns",
     "title": "Syllabus",
     "section": "Week 6: Objects and nouns",
-    "text": "Week 6: Objects and nouns"
+    "text": "Week 6: Objects and nouns\n\n\n\n\n\n\nFormative 4: Morphosyntax of verbs (action predication)\n\n\n\n\n\nSubmit one/two pages that explain the morphosyntax of your conlang’s verbal system.\n\nMake sure to include at least one full verbal paradigm.\nProvide a description of how different verbal features (person, gender, number, tense, aspect, mood, evidentiality, …?) are coded in your conlang (affixes, particles, …?) and provide a few examples for each.\n\n\n\n\n\n\n\n\n\n\nReadings\n\n\n\n\n\n\nHaspelmath, Martin. 2010. Understanding morphology. Ch 5.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nWhat characteristics of nouns in the adopted language you picked caught your attention and why?"
   },
   {
     "objectID": "syllabus.html#week-7-basic-clauses",
     "href": "syllabus.html#week-7-basic-clauses",
     "title": "Syllabus",
     "section": "Week 7: Basic clauses",
-    "text": "Week 7: Basic clauses"
+    "text": "Week 7: Basic clauses\n\n\n\n\n\n\nReadings\n\n\n\n\n\n\nCroft, Bill. 2003. Typology and universals. Ch 5.5.\nCristofaro, Sonia. 2012. Cognitive explanations, distributional evidence, and diachrony: Theory and data in cognitive linguistics. Sec 1-2.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nWhich syntactic aspect of the adopted language you picked caught your attention and why?"
   },
   {
     "objectID": "syllabus.html#week-8-modification-and-subordination",
     "href": "syllabus.html#week-8-modification-and-subordination",
     "title": "Syllabus",
     "section": "Week 8: Modification and subordination",
-    "text": "Week 8: Modification and subordination"
+    "text": "Week 8: Modification and subordination\n\n\n\n\n\n\nSummative 1\n\n\n\n\n\nPlease, check the Assesment page.\n\n\n\n\n\n\n\n\n\nReadings\n\n\n\n\n\n\nCroft, William. 2022. Morphosyntax: Constructions of the world’s languages. Ch 4."
   },
   {
     "objectID": "syllabus.html#week-9-reference-grammars",
     "href": "syllabus.html#week-9-reference-grammars",
     "title": "Syllabus",
     "section": "Week 9: Reference grammars",
-    "text": "Week 9: Reference grammars"
+    "text": "Week 9: Reference grammars\n\n\n\n\n\n\nFormative 5: Nouns and basic clauses\n\n\n\n\n\nSubmit three/five pages that explain the morphosyntax of nouns and basic clauses in your conlang.\n\nInclude a description of nominal morphology, if any (gender, number, case, …?), and illustrate with examples.\nDiscuss the structure of basic clauses (transitive, intransitive, ditransitive, …). Make sure to discuss the morphosyntactic alignment of your conlang.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nChoose a glossed example from your adopted grammar."
   },
   {
     "objectID": "syllabus.html#week-10-writing-systems",
     "href": "syllabus.html#week-10-writing-systems",
     "title": "Syllabus",
     "section": "Week 10: Writing systems",
-    "text": "Week 10: Writing systems"
+    "text": "Week 10: Writing systems\n\n\n\n\n\n\nFormative 6: Interlinear gloss\n\n\n\n\n\nSubmit a short text in your conlang with full interlinear glossing.\n\nIn Week 9, you will learn how to produce publication quality interlinear glosses using LaTeX and the expex package.\nYou will produce the interlinear gloss of your text with those tools and submit the gloss as PDF.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nTranscribe your name in a non-Roman-based writing system.\nIf your name is already in a non-Roman-based writing system, pick a different one."
+  },
+  {
+    "objectID": "syllabus.html#week-13",
+    "href": "syllabus.html#week-13",
+    "title": "Syllabus",
+    "section": "Week 13",
+    "text": "Week 13\n\n\n\n\n\n\nSummative 2\n\n\n\n\n\nPlease, check the Assesment page."
   },
   {
     "objectID": "assessment.html",
     "href": "assessment.html",
     "title": "Assessment",
     "section": "",
-    "text": "This course will be assessed on the basis of a set of formative assessments and two summative assessments.\nFormative assessments are assessments for which you might receive feedback on, but which will not be marked. These will give you a chance to keep on track with the course contents and get interim feedback (or feedforward) that will better prepare you for the summative assessments.\nYou will have to submit two summative assessments. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).\n\nSummative assessment 1 (SA1): Sketch grammar draft\n\nWord limit: 1500. 30% over is allowed.\nDue date: Thursday 10 November 2022 at noon (Week 8).\n\nSummative assessment 2 (SA2): Sketch grammar and glossed text\n\nWord limit: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.\nDue date: Thursday 15 December 2022 at noon (Week 13). TBA\n\n\nSee below for details."
+    "text": "This course will be assessed on the basis of a set of formative assessments and two summative assessments.\nFormative assessments are assessments for which you might receive feedback on, but which will not be marked. These will give you a chance to keep on track with the course contents and get interim feedback (or feedforward) that will better prepare you for the summative assessments.\nYou will have to submit two summative assessments. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).\n\nSummative assessment 1 (SA1): Sketch grammar draft\n\nWord limit: 1500. 30% over is allowed.\nDue date: Thursday 10 November 2022 at noon (Week 8).\n\nSummative assessment 2 (SA2): Sketch grammar and glossed text\n\nWord limit: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.\nDue date: Thursday 15 December 2022 at noon (Week 13).\n\n\nSee below for details."
   },
   {
     "objectID": "assessment.html#formative-assessments",
@@ -130,6 +137,6 @@
     "href": "assessment.html#summative-assessments",
     "title": "Assessment",
     "section": "Summative assessments",
-    "text": "Summative assessments\n\n\n\n\n\n\nSA1: Draft of sketch grammar due on 10 Nov 2022\n\n\n\n\n\n1500 words ±30%.\n\nBased on Weeks 2-4.\nYou should submit a draft of the sketch grammar of the conlang you are creating. The draft should contain at least the following sections:\n\nLanguage context.\nPhonology.\nLexicon (for example, overview of word classes).\n\nWhat you are expected to include in the section is the same as with the corresponding formative assessments, so please refer to the instructions of those on the Syllabus page.\nFurthermore, you are expected to follow writing style and formatting conventions as used in the field of linguistics. A good summary of most of these can be found in the Generic Style Rules for Linguistics.\n\n\n\n\n\n\n\n\n\n\nSA1: Sketch grammar and glossed text due on ? Dec 2022\n\n\n\n\n\n2500 words ±15% (UG, PG 10 credits); 4000 words ±15% (PG 20 credits).\n\nBased on Weeks 2-10.\nMore info soon!"
+    "text": "Summative assessments\n\n\n\n\n\n\nSA1: Draft of sketch grammar due on 10 Nov 2022\n\n\n\n\n\n1500 words ±30%.\n\nBased on Weeks 2-4.\nYou should submit a draft of the sketch grammar of the conlang you are creating. The draft should contain at least the following sections:\n\nLanguage context.\nPhonology.\nLexicon (for example, overview of word classes).\n\nWhat you are expected to include in the section is the same as with the corresponding formative assessments, so please refer to the instructions of those on the Syllabus page.\nFurthermore, you are expected to follow writing style and formatting conventions as used in the field of linguistics. A good summary of most of these can be found in the Generic Style Rules for Linguistics.\n\n\n\n\n\n\n\n\n\n\nSA2: Sketch grammar and glossed text due on 15 Dec 2022\n\n\n\n\n\n2500 words ±15% (UG, PG 10 credits); 4000 words ±15% (PG 20 credits).\n\nBased on Weeks 2-10.\nMore info soon!"
   }
 ]

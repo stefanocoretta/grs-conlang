@@ -94,12 +94,127 @@ Submit the phonemic inventory of your conlang.
 
 ## Week 5: Events, actions and verbs
 
+::: {.callout-important collapse="true" icon="false"}
+## Formative 3: Swadesh list
+
+Submit a **Swadesh list of your conlang with a paragraph describing the main features of the lexicon**.
+
+-   Please, use [this template](https://docs.google.com/spreadsheets/d/15X0cIHE9OiCwQnGeGLulGuh2QkVXJIZgQ0Mf4VZBRNA/edit?usp=sharing).
+
+-   It is up to you how many words you wish to submit, but you should include at least 25 words and words from at least 5 categories.
+
+-   At a minimum you should include the phonemic transcription and the part of speech of your chosen words.
+
+-   If you already have a writing system/transliteration/transcription system in mind, you can also include that.
+:::
+
+::: {.callout-tip collapse="true" icon="false"}
+## Readings
+
+-   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 7.
+
+-   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 2.
+:::
+
+::: {.callout-warning collapse="true" icon="false"}
+## Homework
+
+-   What characteristics of verbs in the adopted language you picked caught your attention and why?
+:::
+
 ## Week 6: Objects and nouns
+
+::: {.callout-important collapse="true" icon="false"}
+## Formative 4: Morphosyntax of verbs (action predication)
+
+Submit one/two pages that explain the morphosyntax of your conlang's verbal system.
+
+-   Make sure to include at least one full verbal paradigm.
+-   Provide a description of how different verbal features (person, gender, number, tense, aspect, mood, evidentiality, ...?) are coded in your conlang (affixes, particles, ...?) and provide a few examples for each.
+:::
+
+::: {.callout-tip collapse="true" icon="false"}
+## Readings
+
+-   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 5.
+:::
+
+::: {.callout-warning collapse="true" icon="false"}
+## Homework
+
+-   What characteristics of nouns in the adopted language you picked caught your attention and why?
+:::
 
 ## Week 7: Basic clauses
 
+::: {.callout-tip collapse="true" icon="false"}
+## Readings
+
+-   Croft, Bill. 2003. *Typology and universals*. Ch 5.5.
+-   Cristofaro, Sonia. 2012. *Cognitive explanations, distributional evidence, and diachrony: Theory and data in cognitive linguistics*. Sec 1-2.
+:::
+
+::: {.callout-warning collapse="true" icon="false"}
+## Homework
+
+-   Which syntactic aspect of the adopted language you picked caught your attention and why?
+:::
+
 ## Week 8: Modification and subordination
+
+::: {.callout-important collapse="true" icon="false"}
+## Summative 1
+
+Please, check the [Assesment](assessment.html) page.
+:::
+
+::: {.callout-tip collapse="true" icon="false"}
+## Readings
+
+-   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 4.
+:::
 
 ## Week 9: Reference grammars
 
+::: {.callout-important collapse="true" icon="false"}
+## Formative 5: Nouns and basic clauses
+
+Submit three/five pages that explain the morphosyntax of nouns and basic clauses in your conlang.
+
+-   Include a description of nominal morphology, if any (gender, number, case, ...?), and illustrate with examples.
+
+-   Discuss the structure of basic clauses (transitive, intransitive, ditransitive, ...). Make sure to discuss the morphosyntactic alignment of your conlang.
+:::
+
+::: {.callout-warning collapse="true" icon="false"}
+## Homework
+
+-   Choose a glossed example from your adopted grammar.
+:::
+
 ## Week 10: Writing systems
+
+::: {.callout-important collapse="true" icon="false"}
+## Formative 6: Interlinear gloss
+
+Submit a short text in your conlang with full interlinear glossing.
+
+-   In Week 9, you will learn how to produce publication quality interlinear glosses using LaTeX and the expex package.
+
+-   You will produce the interlinear gloss of your text with those tools and submit the gloss as PDF.
+:::
+
+::: {.callout-warning collapse="true" icon="false"}
+## Homework
+
+-   Transcribe your name in a non-Roman-based writing system.
+-   If your name is already in a non-Roman-based writing system, pick a different one.
+:::
+
+## Week 13
+
+::: {.callout-important collapse="true" icon="false"}
+## Summative 2
+
+Please, check the [Assesment](assessment.html) page.
+:::
