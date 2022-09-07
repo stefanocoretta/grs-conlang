@@ -27,10 +27,13 @@ There is no class on Week 1.
     -   An introduction to *conlanging*, the art of constructing artificial languages.
 -   The Language Construction Kit (LCK), Ch *The overall process*.
     -   The LCK is the go-to book to teach yourself how to build a *conlang* from scratch. The Chapter *The overall process* gives you an overview of the entire conlanging process.
+
+The following are readings that you can skim through in Week 1 and read at your own time throughout the course.
+
 -   Croft, Bill. 2003. *Typology and universals*. Ch 1.
-    -   Classical book on linguistic typology (and typological linguistics). The first chapter introduces you to typological linguistics. Pay special attention to the *problem of cross-linguistic variability*.
+    -   Classical book on linguistic typology (and typological linguistics). The first chapter introduces you to typological linguistics. Pay special attention to the *Problem of cross-linguistic variability*.
 -   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 1.
-    -   Writing a reference grammar is an art and a science in itself. This textbook covers the main practical aspects of how to go about writing a grammar. Chapter one focusses on what a reference grammar is and its structure and offers guidance on linguistic analysis and argumentation.
+    -   Writing a reference grammar is an art and a science in itself. This textbook covers the main practical aspects of how to go about writing a grammar. Chapter 1 focusses on what a reference grammar is and its structure and offers guidance on linguistic analysis and argumentation.
 :::
 
 ::: {.callout-warning collapse="false"}
