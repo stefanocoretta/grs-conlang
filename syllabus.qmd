@@ -8,7 +8,7 @@ Here you can find a more detailed syllabus of the course.
 Please note that I expect you to come to any week's class **prepared**, which is:
 
 1.  Having read that week's **readings** and
-2.  Having completed that week's **homework**, as detailed below.
+2.  Having completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
 
 **Formative assessments** are due at noon on the day of the seminar. These are designed for you to receive feedback on parts of your conlang's reference grammar (which will be built in into your second summative assessment). Note that formative assessments are based on the topic of the previous week.
 
@@ -40,8 +40,9 @@ The following are readings that you can skim through in Week 1 and read at your 
 ## Homework
 
 -   Pick a language you are curious about and find a descriptive grammar of that language in the library.
--   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
--   Remember to bring the descriptive grammar to class.
+    -   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
+
+    -   Remember to bring the descriptive grammar to class.
 :::
 
 ## Week 3: Sound systems
