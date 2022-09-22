@@ -5,10 +5,10 @@ editor: visual
 
 Here you can find a more detailed syllabus of the course.
 
-Please note that I expect you to come to any week's class **prepared**, which is:
+Please note that I expect you to come to every class **prepared**, which mean:
 
-1.  Having read that week's **readings** and
-2.  Having completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
+1.  You have read that week's **readings** and
+2.  You have completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
 
 **Formative assessments** are due at noon on the day of the seminar. These are designed for you to receive feedback on parts of your conlang's reference grammar (which will be built in into your second summative assessment). Note that formative assessments are based on the topic of the previous week.
 
@@ -16,7 +16,7 @@ More information on formative and summative assessments can be found on the [Ass
 
 ## Week 1
 
-There is no class on Week 1.
+There is no class in Week 1.
 
 ## Week 2: Conlanging and the languages of the world
 
