@@ -39,12 +39,13 @@ The following are readings that you can skim through in Week 1 and read at your 
 :::
 
 ::: {.callout-warning collapse="false"}
-## Homework
+## Homework - Adopt a language
 
--   Pick a language you are curious about and find a descriptive grammar of that language in the library.
-    -   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!).
+Pick a language you are curious about and find a descriptive grammar of that language in the library.
 
-    -   Remember to bring the descriptive grammar to class.
+-   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!). I strongly recommend you to pick languages from language families you are the least familiar with.
+-   Find inspiration on Glottolog: <https://glottolog.org>.
+-   **Remember to bring the descriptive grammar of your "adopted language" to class.**
 :::
 
 ## Week 3: Sound systems
