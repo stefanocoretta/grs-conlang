@@ -22,7 +22,7 @@ There is no class in Week 1.
 
 ## Week 2: Conlanging and the languages of the world
 
-::: {.callout-tip collapse="false"}
+::: {.callout-tip collapse="true"}
 ## Readings
 
 -   [Conlanging 101](https://conlang.org/26c3.pdf) by Sai Emrys, Alex Fink and David Peterson.
@@ -38,7 +38,7 @@ The following are readings that you can skim through in Week 1 and read at your 
     -   Writing a reference grammar is an art and a science in itself. This textbook covers the main practical aspects of how to go about writing a grammar. Chapter 1 focusses on what a reference grammar is and its structure and offers guidance on linguistic analysis and argumentation.
 :::
 
-::: {.callout-warning collapse="false"}
+::: {.callout-warning collapse="true"}
 ## Homework - Adopt a language
 
 Pick a language you are curious about and find a descriptive grammar of that language in the library.
@@ -50,7 +50,7 @@ Pick a language you are curious about and find a descriptive grammar of that lan
 
 ## Week 3: Sound systems
 
-::: {.callout-important collapse="true"}
+::: {.callout-important collapse="false"}
 ## Formative 1: Language context
 
 Submit **one or two paragraphs of language context** for your conlang. Remember to give a name to your conlang (you can change this later).
@@ -60,14 +60,14 @@ Submit **one or two paragraphs of language context** for your conlang. Remember 
 -   To find inspiration, check the language context papers at <http://www.elpublishing.org/language-contexts>.
 :::
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="false"}
 ## Readings
 
 -   How to Create a Language, Ch [Sounds](https://www.angelfire.com/scifi2/nyh/how__all.html).
 -   Gordon, Matthew. 2016. *Phonological typology*. Ch 3.
 :::
 
-::: {.callout-warning collapse="true"}
+::: {.callout-warning collapse="false"}
 ## Homework
 
 -   Find the phonemic inventories of two languages that are related to the "adopted language" you picked in Week 2.
