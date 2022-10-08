@@ -50,7 +50,7 @@ Pick a language you are curious about and find a descriptive grammar of that lan
 
 ## Week 3: Sound systems
 
-::: {.callout-important collapse="false"}
+::: {.callout-important collapse="true"}
 ## Formative 1: Language context
 
 Submit **one or two paragraphs of language context** for your conlang. Remember to give a name to your conlang (you can change this later).
@@ -60,14 +60,14 @@ Submit **one or two paragraphs of language context** for your conlang. Remember 
 -   To find inspiration, check the language context papers at <http://www.elpublishing.org/language-contexts>.
 :::
 
-::: {.callout-tip collapse="false"}
+::: {.callout-tip collapse="true"}
 ## Readings
 
 -   How to Create a Language, Ch [Sounds](https://www.angelfire.com/scifi2/nyh/how__all.html).
 -   Gordon, Matthew. 2016. *Phonological typology*. Ch 3.
 :::
 
-::: {.callout-warning collapse="false"}
+::: {.callout-warning collapse="true"}
 ## Homework
 
 -   Find the phonemic inventories of two languages that are related to the "adopted language" you picked in Week 2.
@@ -77,7 +77,7 @@ Submit **one or two paragraphs of language context** for your conlang. Remember 
 
 ## Week 4: The lexicon
 
-::: {.callout-important collapse="true"}
+::: {.callout-important collapse="false"}
 ## Formative 2: Phonemic inventory
 
 Submit the phonemic inventory of your conlang.
@@ -87,14 +87,14 @@ Submit the phonemic inventory of your conlang.
 -   Feel free to expand on any aspect of the sound system of your conlang.
 :::
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="false"}
 ## Readings
 
 -   LCK, Ch *Word building*.
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 2.
 :::
 
-::: {.callout-warning collapse="true"}
+::: {.callout-warning collapse="false"}
 ## Homework
 
 -   Which word classes are there in your adopted language?
