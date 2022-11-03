@@ -155,6 +155,12 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 
 ## Week 8: Basic clauses
 
+::: {.callout-important collapse="true" icon="false"}
+## Summative 1
+
+Please, check the [Assesment](assessment.html) page.
+:::
+
 ::: {.callout-tip collapse="true" icon="false"}
 ## Readings
 
@@ -169,12 +175,6 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 :::
 
 ## Week 9: Modification and subordination
-
-::: {.callout-important collapse="true" icon="false"}
-## Summative 1
-
-Please, check the [Assesment](assessment.html) page.
-:::
 
 ::: {.callout-tip collapse="true" icon="false"}
 ## Readings
