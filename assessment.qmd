@@ -15,7 +15,7 @@ You will have to submit two **summative assessments**. These assessments will be
 
     -   **Word limit**: 1500. 30% over is allowed.
 
-    -   **Due date: Thursday 10 November 2022 at noon (Week 8).**
+    -   **Due date: Thursday 17 November 2022 at noon (Week 8).**
 
 -   **Summative assessment 2 (SA2)**: Sketch grammar and glossed text
 
@@ -34,11 +34,11 @@ More details and instructions for each formative assessment can be found in the 
 ## Summative assessments
 
 ::: {.callout-important collapse="true"}
-## SA1: Draft of sketch grammar **due on 10 Nov 2022**
+## SA1: Draft of sketch grammar **due on 17 Nov 2022**
 
 **1500 words ±30%.**
 
--   Based on **Weeks 2-4**.
+-   Based on **Weeks 2-5**.
 -   You should submit a **draft of the sketch grammar of the conlang** you are creating. The draft should contain at least the following sections:
     -   **Language context**.
     -   **Phonology**.
