@@ -132,7 +132,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 
 ## Week 7: Objects and nouns
 
-::: {.callout-important collapse="false" icon="false"}
+::: {.callout-important collapse="true" icon="false"}
 ## Formative 4: Morphosyntax of verbs (action predication)
 
 Submit one/two pages that explain the morphosyntax of your conlang's verbal system.
@@ -141,13 +141,13 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 -   Provide a description of how different verbal features (person, gender, number, tense, aspect, mood, evidentiality, ...?) are coded in your conlang (affixes, particles, ...?) and provide a few examples for each.
 :::
 
-::: {.callout-tip collapse="false" icon="false"}
+::: {.callout-tip collapse="true" icon="false"}
 ## Readings
 
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 5.
 :::
 
-::: {.callout-warning collapse="false" icon="false"}
+::: {.callout-warning collapse="true" icon="false"}
 ## Homework
 
 -   What characteristics of nouns in the adopted language you picked caught your attention and why?
@@ -155,14 +155,14 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 
 ## Week 8: Basic clauses
 
-::: {.callout-tip collapse="true" icon="false"}
+::: {.callout-tip collapse="false" icon="false"}
 ## Readings
 
 -   Croft, Bill. 2003. *Typology and universals*. Ch 5.5.
 -   Cristofaro, Sonia. 2012. *Cognitive explanations, distributional evidence, and diachrony: Theory and data in cognitive linguistics*. Sec 1-2.
 :::
 
-::: {.callout-warning collapse="true" icon="false"}
+::: {.callout-warning collapse="false" icon="false"}
 ## Homework
 
 -   Which syntactic aspect of the adopted language you picked caught your attention and why?
@@ -170,7 +170,7 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 
 ## Week 9: Modification and subordination
 
-::: {.callout-important collapse="true" icon="false"}
+::: {.callout-important collapse="false" icon="false"}
 ## Summative 1
 
 Please, check the [Assesment](assessment.html) page.
