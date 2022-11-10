@@ -182,7 +182,15 @@ Please, check the [Assesment](assessment.html) page.
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 4.
 :::
 
-## Week 10: Reference grammars
+::: callout-warning
+# Homework
+
+Translate a couple of sentences in your conlang and post them on Piazza with a minimal explanation (and glossing if you feel like).
+
+You can get inspired by this list: [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html)
+:::
+
+##  Week 10: Reference grammars
 
 ::: {.callout-important collapse="true" icon="false"}
 ## Formative 5: Nouns and basic clauses
