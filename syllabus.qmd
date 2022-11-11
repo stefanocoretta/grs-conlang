@@ -155,14 +155,14 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 
 ## Week 8: Basic clauses
 
-::: {.callout-tip collapse="false" icon="false"}
+::: {.callout-tip collapse="true" icon="false"}
 ## Readings
 
 -   Croft, Bill. 2003. *Typology and universals*. Ch 5.5.
 -   Cristofaro, Sonia. 2012. *Cognitive explanations, distributional evidence, and diachrony: Theory and data in cognitive linguistics*. Sec 1-2.
 :::
 
-::: {.callout-warning collapse="false" icon="false"}
+::: {.callout-warning collapse="true" icon="false"}
 ## Homework
 
 -   Which syntactic aspect of the adopted language you picked caught your attention and why?
@@ -173,16 +173,16 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 ::: {.callout-important collapse="false" icon="false"}
 ## Summative 1
 
-Please, check the [Assesment](assessment.html) page.
+Please, check the [Assessment](assessment.html) page.
 :::
 
-::: {.callout-tip collapse="true" icon="false"}
+::: {.callout-tip collapse="false" icon="false"}
 ## Readings
 
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 4.
 :::
 
-::: callout-warning
+::: {.callout-warning collapse="false"}
 # Homework
 
 Translate a couple of sentences in your conlang and post them on Piazza with a minimal explanation (and glossing if you feel like).
@@ -232,5 +232,5 @@ Submit a short text in your conlang with full interlinear glossing.
 ::: {.callout-important collapse="true" icon="false"}
 ## Summative 2
 
-Please, check the [Assesment](assessment.html) page.
+Please, check the [Assessment](assessment.html) page.
 :::
