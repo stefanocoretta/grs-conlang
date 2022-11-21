@@ -32,7 +32,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "syllabus.html",
@@ -98,18 +98,11 @@
     "text": "Week 9: Modification and subordination\n\n\n\n\n\n\nSummative 1\n\n\n\n\n\nPlease, check the Assessment page.\n\n\n\n\n\n\n\n\n\nReadings\n\n\n\n\n\n\nCroft, William. 2022. Morphosyntax: Constructions of the world’s languages. Ch 4.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\nTranslate a couple of sentences in your conlang and post them on Piazza with a minimal explanation (and glossing if you feel like).\nYou can get inspired by this list: Conlang Syntax Test Cases"
   },
   {
-    "objectID": "syllabus.html#week-10-reference-grammars",
-    "href": "syllabus.html#week-10-reference-grammars",
+    "objectID": "syllabus.html#week-11-interlinear-glossing",
+    "href": "syllabus.html#week-11-interlinear-glossing",
     "title": "Syllabus",
-    "section": "Week 10: Reference grammars",
-    "text": "Week 10: Reference grammars\n\n\n\n\n\n\nFormative 5: Nouns and basic clauses\n\n\n\n\n\nSubmit three/five pages that explain the morphosyntax of nouns and basic clauses in your conlang.\n\nInclude a description of nominal morphology, if any (gender, number, case, …?), and illustrate with examples.\nDiscuss the structure of basic clauses (transitive, intransitive, ditransitive, …). Make sure to discuss the morphosyntactic alignment of your conlang.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nChoose a glossed example from your adopted grammar."
-  },
-  {
-    "objectID": "syllabus.html#week-11-writing-systems",
-    "href": "syllabus.html#week-11-writing-systems",
-    "title": "Syllabus",
-    "section": "Week 11: Writing systems",
-    "text": "Week 11: Writing systems\n\n\n\n\n\n\nFormative 6: Interlinear gloss\n\n\n\n\n\nSubmit a short text in your conlang with full interlinear glossing.\n\nIn Week 9, you will learn how to produce publication quality interlinear glosses using LaTeX and the expex package.\nYou will produce the interlinear gloss of your text with those tools and submit the gloss as PDF.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nTranscribe your name in a non-Roman-based writing system.\nIf your name is already in a non-Roman-based writing system, pick a different one."
+    "section": "Week 11: Interlinear glossing",
+    "text": "Week 11: Interlinear glossing\n\n\n\n\n\n\nFormative 5: Nouns and basic clauses\n\n\n\n\n\nSubmit an overview of your conlang morphosyntax.\n\nYou can focus on particular aspects you would like to get feedback on.\nRemember to include a lot of examples for any aspect you are discussing. You can use words and/or glossed sentences.\nThere is no limit but note that the longer the submission, the more general the feedback will be. 1/3 pages are ideal, but you can definitely submit more than that.\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\nIf you haven’t done so, familiarise yourself with LaTeX: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes.\nChoose a few example sentences for glossing from your conlang. You will gloss it in class using LaTeX."
   },
   {
     "objectID": "syllabus.html#week-13",

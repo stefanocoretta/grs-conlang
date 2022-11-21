@@ -170,19 +170,19 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 
 ## Week 9: Modification and subordination
 
-::: {.callout-important collapse="false" icon="false"}
+::: {.callout-important collapse="true" icon="false"}
 ## Summative 1
 
 Please, check the [Assessment](assessment.html) page.
 :::
 
-::: {.callout-tip collapse="false" icon="false"}
+::: {.callout-tip collapse="true" icon="false"}
 ## Readings
 
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 4.
 :::
 
-::: {.callout-warning collapse="false"}
+::: {.callout-warning collapse="true"}
 # Homework
 
 Translate a couple of sentences in your conlang and post them on Piazza with a minimal explanation (and glossing if you feel like).
@@ -190,41 +190,26 @@ Translate a couple of sentences in your conlang and post them on Piazza with a m
 You can get inspired by this list: [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html)
 :::
 
-##  Week 10: Reference grammars
+## Week 11: Interlinear glossing
 
-::: {.callout-important collapse="true" icon="false"}
+::: {.callout-important collapse="false" icon="false"}
 ## Formative 5: Nouns and basic clauses
 
-Submit three/five pages that explain the morphosyntax of nouns and basic clauses in your conlang.
+Submit an overview of your conlang morphosyntax.
 
--   Include a description of nominal morphology, if any (gender, number, case, ...?), and illustrate with examples.
+-   You can focus on particular aspects you would like to get feedback on.
 
--   Discuss the structure of basic clauses (transitive, intransitive, ditransitive, ...). Make sure to discuss the morphosyntactic alignment of your conlang.
+-   Remember to include a lot of examples for any aspect you are discussing. You can use words and/or glossed sentences.
+
+- There is no limit but note that the longer the submission, the more general the feedback will be. 1/3 pages are ideal, but you can definitely submit more than that.
 :::
 
-::: {.callout-warning collapse="true" icon="false"}
+::: {.callout-warning collapse="false" icon="false"}
 ## Homework
 
--   Choose a glossed example from your adopted grammar.
-:::
+- If you haven't done so, familiarise yourself with LaTeX: <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>.
 
-## Week 11: Writing systems
-
-::: {.callout-important collapse="true" icon="false"}
-## Formative 6: Interlinear gloss
-
-Submit a short text in your conlang with full interlinear glossing.
-
--   In Week 9, you will learn how to produce publication quality interlinear glosses using LaTeX and the expex package.
-
--   You will produce the interlinear gloss of your text with those tools and submit the gloss as PDF.
-:::
-
-::: {.callout-warning collapse="true" icon="false"}
-## Homework
-
--   Transcribe your name in a non-Roman-based writing system.
--   If your name is already in a non-Roman-based writing system, pick a different one.
+- Choose a few example sentences for glossing from your conlang. You will gloss it in class using LaTeX.
 :::
 
 ## Week 13
