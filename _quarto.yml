@@ -12,12 +12,16 @@ website:
         text: Syllabus
       - href: assessment.html
         text: Assessment
+      - href: showcase.html
+        text: Showcase
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header: assets/head.html
+    include-after-body: assets/after-body.html
 
 editor: visual
 

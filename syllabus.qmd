@@ -201,15 +201,15 @@ Submit an overview of your conlang morphosyntax.
 
 -   Remember to include a lot of examples for any aspect you are discussing. You can use words and/or glossed sentences.
 
-- There is no limit but note that the longer the submission, the more general the feedback will be. 1/3 pages are ideal, but you can definitely submit more than that.
+-   There is no limit but note that the longer the submission, the more general the feedback will be. 1/3 pages are ideal, but you can definitely submit more than that.
 :::
 
 ::: {.callout-warning collapse="false" icon="false"}
 ## Homework
 
-- If you haven't done so, familiarise yourself with LaTeX: <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>.
+-   If you haven't done so, familiarise yourself with LaTeX: <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>.
 
-- Choose a few example sentences for glossing from your conlang. You will gloss it in class using LaTeX.
+-   Choose a few example sentences for glossing from your conlang. You will gloss it in class using LaTeX.
 :::
 
 ## Week 13

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "showcase.html",
+    "href": "showcase.html",
+    "title": "Showcase",
+    "section": "",
+    "text": "This pages showcases work from students who took this class in previous years.\n[UNDER CONSTRUCTION]"
+  },
+  {
+    "objectID": "showcase.html#section",
+    "href": "showcase.html#section",
+    "title": "Showcase",
+    "section": "2022-23",
+    "text": "2022-23\n\nKawlix by Esther Barnes.\nArva by Alma Rießler.\nYinne by Margherita Tobia."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "GR Seminar — Making a language",
@@ -110,6 +124,27 @@
     "title": "Syllabus",
     "section": "Week 13",
     "text": "Week 13\n\n\n\n\n\n\nSummative 2\n\n\n\n\n\nPlease, check the Assessment page."
+  },
+  {
+    "objectID": "showcase/arva-riessler.html",
+    "href": "showcase/arva-riessler.html",
+    "title": "Arva",
+    "section": "",
+    "text": "Arva is a synthetic agglutinative language of the Ravian language family. It is spoken in the deep forest of the Vlanje mountains, where Arvians live socially and geographically isolated from their surroundings. Arva exemplifies its speakers’ strong connection to nature and the Spritis of all living things, which are honoured above all else. Evoking the Spirits through Arvian enchantments allows speakers to perform spells. This traditional knowledge is embedded within the language and cannot exist outside it.\nSome fascinating features of the language include its VSO word order, set of honorific pronouns, absolute frames of reference, marking of evidentiality and its eleven cases.\n\n  iɑɾɑ-bəgəʃiː ʒɑtuvə-zə\n  DES-sing:IMPV moon-SPIRIT\n  'Good night (lit. May the Moon Spirit sing).'"
+  },
+  {
+    "objectID": "showcase/kawlix-barnes.html",
+    "href": "showcase/kawlix-barnes.html",
+    "title": "Kawlix",
+    "section": "",
+    "text": "Kawlix (endonym: moamaj kawlix) is spoken by the Kawli people who lived in first century CE central Highland Scotland. The language has no known relatives at the time considered, although Kawli tradition suggest there may have been speakers of related languages in the past (at least several generations ago). Kawlix tends towards agglutinative morphology, while an unusual feature of the language is ergative-absolutive alignment in the syntax as well as the morphology/case system.\n\n  /omtokawtamim majta faŋ çabesuby ewyɲ/\n  [ɔ̝̃ntogɒwtä̃mĩm mæjtä fɑ̃ŋ çäβezuβʏ e̠wyɲ]\n  om-tokawta-mim majta faŋ çabesu-by ewyn\n  V1-move_camp-PROG 1PL.ABS to south-INAN.PREP NEAR.FUT\n  'We are moving camp southward [tomorrow].'"
+  },
+  {
+    "objectID": "showcase/yinne-tobia.html",
+    "href": "showcase/yinne-tobia.html",
+    "title": "Yinne",
+    "section": "",
+    "text": "Yinne was originally created as part of the world-building for a story set in a distant future where humans have colonised space, but still lack the technology for hyper-speed, so travel between different settlements is a lengthy and difficult endeavour, and many settlements are very isolated communities. The main idea was to create a language that relies heavily on the speakers’ shared knowledge and their cultural understanding, a language where not much is said and lots is implied, something you could get away with in a close-knit community. The result is an agglutinative language with a relatively simple grammar, but lots of optionality when it comes to argument structure. Here’s an example:\n…"
   },
   {
     "objectID": "assessment.html",
