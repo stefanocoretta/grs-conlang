@@ -11,7 +11,7 @@
     "href": "showcase.html#section",
     "title": "Showcase",
     "section": "2022-23",
-    "text": "2022-23\n\nKawlix by Esther Barnes.\nArva by Alma Rießler.\nYinne by Margherita Tobia."
+    "text": "2022-23\n\nKawlix by Esther Barnes.\nCu by George Lovitt.\nArva by Alma Rießler.\nYinne by Margherita Tobia."
   },
   {
     "objectID": "index.html",
@@ -131,6 +131,13 @@
     "title": "Arva",
     "section": "",
     "text": "Arva is a synthetic agglutinative language of the Ravian language family. It is spoken in the deep forest of the Vlanje mountains, where Arvians live socially and geographically isolated from their surroundings. Arva exemplifies its speakers’ strong connection to nature and the Spritis of all living things, which are honoured above all else. Evoking the Spirits through Arvian enchantments allows speakers to perform spells. This traditional knowledge is embedded within the language and cannot exist outside it.\nSome fascinating features of the language include its VSO word order, set of honorific pronouns, absolute frames of reference, marking of evidentiality and its eleven cases.\n\n  iɑɾɑ-bəgəʃiː ʒɑtuvə-zə\n  DES-sing:IMPV moon-SPIRIT\n  'Good night (lit. May the Moon Spirit sing).'"
+  },
+  {
+    "objectID": "showcase/cu-lovitt.html",
+    "href": "showcase/cu-lovitt.html",
+    "title": "Cu",
+    "section": "",
+    "text": "Cu is a constructed language for a fictional situation in which a deific snake has created mankind and has given them the gift of language. Cu is a descendent of a language that’s much more restricted by serpentine vocal anatomy that has humanised over time. Since snakes can’t produce many different types of sounds, the proto-language phonology was impoverished, and was characterised by low information-density strings of difficult-to-pronounce fricative clusters. As the language has humanised, the phonology has expanded, with more places and manners of articulation, as well as statistically common features like voicing, which has allowed the language to become more efficient. This culminates as a still very snake-like language that has strayed quite far from its roots. A primary creative feature of the language is its extensive polysynthesis, that requires all clauses to be a single word.\n\n  θsȧmȧCḁ̇chxciȧtsaCiȧθȧkrȧkhk\n  θ- sȧ -mȧ- -Cḁ̇ -chxci -ȧtsa- -Ci -ȧθȧ- -krȧkhk\n  PST- COP -TRANS- -Cḁ̇ -scared -DAT- -Cu -GEN- -safety\n  'Cḁ became fearful for the Cu’s safety,'\n\n\n\n  θaknknascfulumahθlucksaθstsuschmtʃuʃlakhc.\n  θa- ∅- knkn- a- scfuluma- h- θ- lucksa -∅ -θstsuschm -tʃu -ʃlakhc\n  CONJ- ACC- wall- ACT- DEFR- PFV- PST- create -NOM- -3SG.ANI.DEFR -INSTR- -body\n  'so they created a wall from their body.'"
   },
   {
     "objectID": "showcase/kawlix-barnes.html",

@@ -10,6 +10,8 @@ This pages showcases work from students who took this class in previous years.
 
 -   [**Kawlix**](showcase/kawlix-barnes.qmd) by Esther Barnes.
 
+-   [**Cu**](showcase/cu-lovitt.qmd) by George Lovitt.
+
 -   [**Arva**](showcase/arva-riessler.qmd) by Alma Rießler.
 
 -   [**Yinne**](showcase/yinne-tobia.qmd) by Margherita Tobia.
