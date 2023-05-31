@@ -4,14 +4,16 @@ title: "Showcase"
 
 This pages showcases work from students who took this class in previous years.
 
-\[UNDER CONSTRUCTION\]
-
 ## 2022-23
 
--   [**Kawlix**](showcase/kawlix-barnes.qmd) by Esther Barnes.
+-   [**Arva**](showcase/arva-riessler.qmd) by Alma Rießler.
+
+-   [**Cjordan**](showcase/cjordan-lagrue.qmd) by Léna Lagrue.
 
 -   [**Cu**](showcase/cu-lovitt.qmd) by George Lovitt.
 
--   [**Arva**](showcase/arva-riessler.qmd) by Alma Rießler.
+-   [**Kawlix**](showcase/kawlix-barnes.qmd) by Esther Barnes.
+
+-   [**Nimivefati**](showcase/nimivefati-dankers.qmd) by Verna Dankers.
 
 -   [**Yinne**](showcase/yinne-tobia.qmd) by Margherita Tobia.

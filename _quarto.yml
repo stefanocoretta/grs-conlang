@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "showcase/*.pdf"
 
 website:
   title: "Making a language"

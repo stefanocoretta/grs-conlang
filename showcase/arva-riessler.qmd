@@ -4,7 +4,7 @@ author: "Alma Rießler"
 ---
 
 **Arva** is a synthetic agglutinative language of the Ravian language family. It is spoken in the deep forest of the Vlanje mountains, where Arvians live socially and geographically isolated from their surroundings. Arva exemplifies its speakers' strong connection to nature and the Spritis of all living things, which are honoured above all else. Evoking the Spirits through Arvian enchantments allows speakers to perform spells. This traditional knowledge is embedded within the language and cannot exist outside it.
- 
+
 Some fascinating features of the language include its VSO word order, set of honorific pronouns, absolute frames of reference, marking of evidentiality and its eleven cases.
 
 ```{=html}
@@ -13,4 +13,6 @@ Some fascinating features of the language include its VSO word order, set of hon
   <p>DES-sing:IMPV moon-SPIRIT</p>
   <p>'Good night (lit. May the Moon Spirit sing).'</p>
 </div>
+
+<a class="btn btn-primary" href="../showcase/arva-riessler.pdf" target="_blank" role="button">Grammar (PDF)</a>
 ```

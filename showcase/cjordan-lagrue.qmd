@@ -1,0 +1,17 @@
+---
+title: "Cjordan"
+author: "Léna Lagrue"
+---
+
+**Cjordan** is a regional language and the mother tongue of some three thousand members of a nomadic trading community. Cjordan speakers originate from the Larekian empire, more specifically from a landlocked valley eastern of a mountain range located in the centre of the Ademoja region, a fictional Lapland. A Finnic language, Cjordan exhibits similar patterns to Finnish and Estonian such as its lack of grammatical gender, agglutinative nature, morphological derivation, and its productivity through compounding. Cjordan mainly revolves around trade, time, craft, family, and travel, due to the nature of the speakers' lives as nomadic individuals.
+
+```{=html}
+<div data-gloss>
+  <p class="gloss__line--original">Oita marenomuneg jad omjetokatet bjo Ademojane!</p>
+  <p>oita marenomuneg-∅ jad omjet-o-katet bjo Ademoja-ne</p>
+  <p>hello traveller-NOM.SG and be.PRS.2SG-EPEN-IMP.2SG good Ademoja-INE</p>
+  <p>'Hello traveller, and welcome in Ademoja!'</p>
+</div>
+
+<a class="btn btn-primary" href="../showcase/cjordan-lagrue.pdf" target="_blank" role="button">Grammar (PDF)</a>
+```

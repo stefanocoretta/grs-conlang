@@ -13,4 +13,6 @@ author: "Esther Barnes"
   <p>V1-move_camp-PROG 1PL.ABS to south-INAN.PREP NEAR.FUT</p>
   <p>'We are moving camp southward [tomorrow].'</p>
 </div>
+
+<a class="btn btn-primary" href="../showcase/kawlix-barnes.pdf" target="_blank" role="button">Grammar (PDF)</a>
 ```

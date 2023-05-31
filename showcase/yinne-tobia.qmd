@@ -26,4 +26,6 @@ author: "Margherita Tobia"
   <p>1SG rain hear</p>
   <p>'I hear the rain.'</p>
 </div>
+
+<a class="btn btn-primary" href="../showcase/yinne-tobia.pdf" target="_blank" role="button">Grammar (PDF)</a>
 ```

@@ -1,0 +1,20 @@
+---
+title: "Nimivefati"
+author: "Verna Dankers"
+---
+
+**Nimivefati** is a hypothetical Bantu language spoken by a tribe that lives near the Congo River basin. This agglutinative language has SOV word order and has---as is common among Bantu languages---more than 15 noun classes. Other idiosyncratic features of the language are best understood in a sociocultural context and are based on the people's respect for nature (through lexeme families and figures of speech rooted in the four elements), respect for each other (through inter-generational rules for click consonant deformation), and attention to individuals' perceptions (through emotions modifying the click consonant usage, possession of emotions being expressed using inalienable possession and verb tenses being dedicated to the people's spiritual past/future).
+
+The conlang is a product of a computer scientist's (Verna Dankers') research into the languages of mid- and southern Africa and captures many linguistic features that are lost when considering digitalising language as mere text without considering the contexts in which languages are embedded.
+
+The example below showcases certain features of Nimivefati, by illustrating subject drop (the subject of 'to know' can be unambiguously inferred from the verb), including nouns from two classes (classes 1 and 9), using one of the click consonants /ᶢǀ/, employing a fire-related metaphor, and using the Imaginary Past} [impst]{.smallcaps} tense for 'to burn':
+
+```{=html}
+<div data-gloss>
+  <p>mu-piku Ø-pikobiamɔna ŋi-mu-tái-iŋi-Ø-mēki mi-Ø-ᶢǀuja </p>
+  <p>NP1-man NP9-earth 3SG.SBJ-NP1-IMPST}-3SG.OBJ-NP9-burn 1SG.SBJ-PRS-know</p>
+  <p>'I know that man burnt the earth. (fig. I know that humans destroyed the earth.)'</p>
+</div>
+
+<a class="btn btn-primary" href="../showcase/nimivefati-dankers.pdf" target="_blank" role="button">Grammar (PDF)</a>
+```

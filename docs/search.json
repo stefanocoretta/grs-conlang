@@ -4,14 +4,14 @@
     "href": "showcase.html",
     "title": "Showcase",
     "section": "",
-    "text": "This pages showcases work from students who took this class in previous years.\n[UNDER CONSTRUCTION]"
+    "text": "This pages showcases work from students who took this class in previous years."
   },
   {
     "objectID": "showcase.html#section",
     "href": "showcase.html#section",
     "title": "Showcase",
     "section": "2022-23",
-    "text": "2022-23\n\nKawlix by Esther Barnes.\nCu by George Lovitt.\nArva by Alma Rießler.\nYinne by Margherita Tobia."
+    "text": "2022-23\n\nArva by Alma Rießler.\nCjordan by Léna Lagrue.\nCu by George Lovitt.\nKawlix by Esther Barnes.\nNimivefati by Verna Dankers.\nYinne by Margherita Tobia."
   },
   {
     "objectID": "index.html",
@@ -32,7 +32,7 @@
     "href": "index.html#course-overview",
     "title": "GR Seminar — Making a language",
     "section": "Course overview",
-    "text": "Course overview\n\nWeekTopicReadingFormativeSummative12Conlanging and languages of the world- Conlanging 101 - LCK, Ch The overall process3Sound systems-  How to create a language, Ch Sounds - Gordon 2016, Ch 3F1: Language Context 5The lexicon (phonotactics, stress, word classes)- LCK, Ch Word building- Haspelmath 2010, Ch 2F2: Phonemic inventory6Events, actions and verbs- Aikenvald 2014, Ch 7- Croft 2022, Ch 2F3: Swadesh list7Objects and nouns- Haspelmath 2010, Ch 5F4: Verbal morphosyntax8Basic clauses- Croft 2003, Ch 5.5- Cristofaro 2012, Sec 1-29Modification and subordination- Croft 2022, Ch 4S1 (Nov 17) based on weeks 2-510Reference grammarsF5: Nouns and Basic clauses11Writing systemsF6: Interlinear gloss1213S2 (Dec 15) based on weeks 2-11"
+    "text": "Course overview\n\n\n\n\n\n\n\n\n\n\nWeek\nTopic\nReading\nFormative\nSummative\n\n\n\n\n1\n\n\n\n\n\n\n2\nConlanging and languages of the world\n- Conlanging 101 - LCK, Ch The overall process\n\n\n\n\n\n3\nSound systems\n-  How to create a language, Ch Sounds\n- Gordon 2016, Ch 3\nF1: Language Context\n\n\n\n\n\n\n\n\n\n\n5\nThe lexicon (phonotactics, stress, word classes)\n- LCK, Ch Word building\n- Haspelmath 2010, Ch 2\nF2: Phonemic inventory\n\n\n\n6\nEvents, actions and verbs\n- Aikenvald 2014, Ch 7\n- Croft 2022, Ch 2\nF3: Swadesh list\n\n\n\n7\nObjects and nouns\n- Haspelmath 2010, Ch 5\nF4: Verbal morphosyntax\n\n\n\n8\nBasic clauses\n- Croft 2003, Ch 5.5\n- Cristofaro 2012, Sec 1-2\n\n\n\n\n9\nModification and subordination\n- Croft 2022, Ch 4\n\nS1 (Nov 17) based on weeks 2-5\n\n\n10\nReference grammars\n\nF5: Nouns and Basic clauses\n\n\n\n11\nWriting systems\n\nF6: Interlinear gloss\n\n\n\n12\n\n\n\n\n\n\n13\n\n\n\nS2 (Dec 15) based on weeks 2-11"
   },
   {
     "objectID": "index.html#reading-list",
@@ -40,13 +40,6 @@
     "title": "GR Seminar — Making a language",
     "section": "Reading list",
     "text": "Reading list\nThe reading list for this seminar can be found here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "syllabus.html",
@@ -130,7 +123,7 @@
     "href": "showcase/arva-riessler.html",
     "title": "Arva",
     "section": "",
-    "text": "Arva is a synthetic agglutinative language of the Ravian language family. It is spoken in the deep forest of the Vlanje mountains, where Arvians live socially and geographically isolated from their surroundings. Arva exemplifies its speakers’ strong connection to nature and the Spritis of all living things, which are honoured above all else. Evoking the Spirits through Arvian enchantments allows speakers to perform spells. This traditional knowledge is embedded within the language and cannot exist outside it.\nSome fascinating features of the language include its VSO word order, set of honorific pronouns, absolute frames of reference, marking of evidentiality and its eleven cases.\n\n  iɑɾɑ-bəgəʃiː ʒɑtuvə-zə\n  DES-sing:IMPV moon-SPIRIT\n  'Good night (lit. May the Moon Spirit sing).'"
+    "text": "Arva is a synthetic agglutinative language of the Ravian language family. It is spoken in the deep forest of the Vlanje mountains, where Arvians live socially and geographically isolated from their surroundings. Arva exemplifies its speakers’ strong connection to nature and the Spritis of all living things, which are honoured above all else. Evoking the Spirits through Arvian enchantments allows speakers to perform spells. This traditional knowledge is embedded within the language and cannot exist outside it.\nSome fascinating features of the language include its VSO word order, set of honorific pronouns, absolute frames of reference, marking of evidentiality and its eleven cases.\n\n  iɑɾɑ-bəgəʃiː ʒɑtuvə-zə\n  DES-sing:IMPV moon-SPIRIT\n  'Good night (lit. May the Moon Spirit sing).'\n\n\nGrammar (PDF)"
   },
   {
     "objectID": "showcase/cu-lovitt.html",
@@ -140,22 +133,43 @@
     "text": "Cu is a constructed language for a fictional situation in which a deific snake has created mankind and has given them the gift of language. Cu is a descendent of a language that’s much more restricted by serpentine vocal anatomy that has humanised over time. Since snakes can’t produce many different types of sounds, the proto-language phonology was impoverished, and was characterised by low information-density strings of difficult-to-pronounce fricative clusters. As the language has humanised, the phonology has expanded, with more places and manners of articulation, as well as statistically common features like voicing, which has allowed the language to become more efficient. This culminates as a still very snake-like language that has strayed quite far from its roots. A primary creative feature of the language is its extensive polysynthesis, that requires all clauses to be a single word.\n\n  θsȧmȧCḁ̇chxciȧtsaCiȧθȧkrȧkhk\n  θ- sȧ -mȧ- -Cḁ̇ -chxci -ȧtsa- -Ci -ȧθȧ- -krȧkhk\n  PST- COP -TRANS- -Cḁ̇ -scared -DAT- -Cu -GEN- -safety\n  'Cḁ became fearful for the Cu’s safety,'\n\n\n\n  θaknknascfulumahθlucksaθstsuschmtʃuʃlakhc.\n  θa- ∅- knkn- a- scfuluma- h- θ- lucksa -∅ -θstsuschm -tʃu -ʃlakhc\n  CONJ- ACC- wall- ACT- DEFR- PFV- PST- create -NOM- -3SG.ANI.DEFR -INSTR- -body\n  'so they created a wall from their body.'"
   },
   {
+    "objectID": "showcase/nimivefati-dankers.html",
+    "href": "showcase/nimivefati-dankers.html",
+    "title": "Nimivefati",
+    "section": "",
+    "text": "Nimivefati is a hypothetical Bantu language spoken by a tribe that lives near the Congo River basin. This agglutinative language has SOV word order and has—as is common among Bantu languages—more than 15 noun classes. Other idiosyncratic features of the language are best understood in a sociocultural context and are based on the people’s respect for nature (through lexeme families and figures of speech rooted in the four elements), respect for each other (through inter-generational rules for click consonant deformation), and attention to individuals’ perceptions (through emotions modifying the click consonant usage, possession of emotions being expressed using inalienable possession and verb tenses being dedicated to the people’s spiritual past/future).\nThe conlang is a product of a computer scientist’s (Verna Dankers’) research into the languages of mid- and southern Africa and captures many linguistic features that are lost when considering digitalising language as mere text without considering the contexts in which languages are embedded.\nThe example below showcases certain features of Nimivefati, by illustrating subject drop (the subject of ‘to know’ can be unambiguously inferred from the verb), including nouns from two classes (classes 1 and 9), using one of the click consonants /ᶢǀ/, employing a fire-related metaphor, and using the Imaginary Past} impst tense for ‘to burn’:\n\n  mu-piku Ø-pikobiamɔna ŋi-mu-tái-iŋi-Ø-mēki mi-Ø-ᶢǀuja \n  NP1-man NP9-earth 3SG.SBJ-NP1-IMPST}-3SG.OBJ-NP9-burn 1SG.SBJ-PRS-know\n  'I know that man burnt the earth. (fig. I know that humans destroyed the earth.)'\n\n\nGrammar (PDF)"
+  },
+  {
     "objectID": "showcase/kawlix-barnes.html",
     "href": "showcase/kawlix-barnes.html",
     "title": "Kawlix",
     "section": "",
-    "text": "Kawlix (endonym: moamaj kawlix) is spoken by the Kawli people who lived in first century CE central Highland Scotland. The language has no known relatives at the time considered, although Kawli tradition suggest there may have been speakers of related languages in the past (at least several generations ago). Kawlix tends towards agglutinative morphology, while an unusual feature of the language is ergative-absolutive alignment in the syntax as well as the morphology/case system.\n\n  /omtokawtamim majta faŋ çabesuby ewyɲ/\n  [ɔ̝̃ntogɒwtä̃mĩm mæjtä fɑ̃ŋ çäβezuβʏ e̠wyɲ]\n  om-tokawta-mim majta faŋ çabesu-by ewyn\n  V1-move_camp-PROG 1PL.ABS to south-INAN.PREP NEAR.FUT\n  'We are moving camp southward [tomorrow].'"
+    "text": "Kawlix (endonym: moamaj kawlix) is spoken by the Kawli people who lived in first century CE central Highland Scotland. The language has no known relatives at the time considered, although Kawli tradition suggest there may have been speakers of related languages in the past (at least several generations ago). Kawlix tends towards agglutinative morphology, while an unusual feature of the language is ergative-absolutive alignment in the syntax as well as the morphology/case system.\n\n  /omtokawtamim majta faŋ çabesuby ewyɲ/\n  [ɔ̝̃ntogɒwtä̃mĩm mæjtä fɑ̃ŋ çäβezuβʏ e̠wyɲ]\n  om-tokawta-mim majta faŋ çabesu-by ewyn\n  V1-move_camp-PROG 1PL.ABS to south-INAN.PREP NEAR.FUT\n  'We are moving camp southward [tomorrow].'\n\n\nGrammar (PDF)"
+  },
+  {
+    "objectID": "showcase/cjordan-lagrue.html",
+    "href": "showcase/cjordan-lagrue.html",
+    "title": "Cjordan",
+    "section": "",
+    "text": "Cjordan is a regional language and the mother tongue of some three thousand members of a nomadic trading community. Cjordan speakers originate from the Larekian empire, more specifically from a landlocked valley eastern of a mountain range located in the centre of the Ademoja region, a fictional Lapland. A Finnic language, Cjordan exhibits similar patterns to Finnish and Estonian such as its lack of grammatical gender, agglutinative nature, morphological derivation, and its productivity through compounding. Cjordan mainly revolves around trade, time, craft, family, and travel, due to the nature of the speakers’ lives as nomadic individuals.\n\n  Oita marenomuneg jad omjetokatet bjo Ademojane!\n  oita marenomuneg-∅ jad omjet-o-katet bjo Ademoja-ne\n  hello traveller-NOM.SG and be.PRS.2SG-EPEN-IMP.2SG good Ademoja-INE\n  'Hello traveller, and welcome in Ademoja!'\n\n\nGrammar (PDF)"
   },
   {
     "objectID": "showcase/yinne-tobia.html",
     "href": "showcase/yinne-tobia.html",
     "title": "Yinne",
     "section": "",
-    "text": "Yinne was originally created as part of the world-building for a story set in a distant future where humans have colonised space, but still lack the technology for hyper-speed, so travel between different settlements is a lengthy and difficult endeavour, and many settlements are very isolated communities. The main idea was to create a language that relies heavily on the speakers’ shared knowledge and their cultural understanding, a language where not much is said and lots is implied, something you could get away with in a close-knit community. The result is an agglutinative language with a relatively simple grammar, but lots of optionality when it comes to argument structure.\n\n  Mmota nnuyenni yaliseka\n  mmo-ta nnuyen-ni yaliseka\n  1SG-S rain-O hear\n  'I hear the rain.'\n\n\n\n  Nnuyenni yaliseka\n  nnuyen-ni yaliseka\n  rain-O hear\n  'The rain, I hear.'\n\n\n\n  Mmo nnuyen yaliseka\n  mmo nnuyen yaliseka\n  1SG rain hear\n  'I hear the rain.'"
+    "text": "Yinne was originally created as part of the world-building for a story set in a distant future where humans have colonised space, but still lack the technology for hyper-speed, so travel between different settlements is a lengthy and difficult endeavour, and many settlements are very isolated communities. The main idea was to create a language that relies heavily on the speakers’ shared knowledge and their cultural understanding, a language where not much is said and lots is implied, something you could get away with in a close-knit community. The result is an agglutinative language with a relatively simple grammar, but lots of optionality when it comes to argument structure.\n\n  Mmota nnuyenni yaliseka\n  mmo-ta nnuyen-ni yaliseka\n  1SG-S rain-O hear\n  'I hear the rain.'\n\n\n\n  Nnuyenni yaliseka\n  nnuyen-ni yaliseka\n  rain-O hear\n  'The rain, I hear.'\n\n\n\n  Mmo nnuyen yaliseka\n  mmo nnuyen yaliseka\n  1SG rain hear\n  'I hear the rain.'\n\n\nGrammar (PDF)"
   },
   {
     "objectID": "assessment.html",
     "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "This course will be assessed on the basis of a set of formative assessments and two summative assessments.\nFormative assessments are assessments for which you might receive feedback on, but which will not be marked. These will give you a chance to keep on track with the course contents and get interim feedback (or feedforward) that will better prepare you for the summative assessments.\nYou will have to submit two summative assessments. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).\n\nSummative assessment 1 (SA1): Sketch grammar draft\n\nWord limit: 1500. 50% over is allowed.\nDue date: Thursday 17 November 2022 at noon (Week 8).\n\nSummative assessment 2 (SA2): Sketch grammar and glossed text\n\nWord limit: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.\nDue date: Thursday 15 December 2022 at noon (Week 13).\n\n\nSee below for details."
+  },
+  {
+    "objectID": "assessment.html#overview",
+    "href": "assessment.html#overview",
     "title": "Assessment",
     "section": "",
     "text": "This course will be assessed on the basis of a set of formative assessments and two summative assessments.\nFormative assessments are assessments for which you might receive feedback on, but which will not be marked. These will give you a chance to keep on track with the course contents and get interim feedback (or feedforward) that will better prepare you for the summative assessments.\nYou will have to submit two summative assessments. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).\n\nSummative assessment 1 (SA1): Sketch grammar draft\n\nWord limit: 1500. 50% over is allowed.\nDue date: Thursday 17 November 2022 at noon (Week 8).\n\nSummative assessment 2 (SA2): Sketch grammar and glossed text\n\nWord limit: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.\nDue date: Thursday 15 December 2022 at noon (Week 13).\n\n\nSee below for details."
