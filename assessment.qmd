@@ -11,19 +11,25 @@ This course will be assessed on the basis of a **set of formative assessments** 
 
 You will have to submit two **summative assessments**. These assessments will be marked and the final mark will be based on those marks (the weighting is different depending on which version of the course you are taking).
 
--   **Summative assessment 1 (SA1)**: Sketch grammar draft
+-   **Summative assessment 1 (SA1)**
 
-    -   **Word limit**: 1500. 50% over is allowed.
+    -   **Word limit**: 1500.
 
-    -   **Due date: Thursday 17 November 2022 at noon (Week 8).**
+    -   **Due date: TBD.**
 
--   **Summative assessment 2 (SA2)**: Sketch grammar and glossed text
+-   **Summative assessment 2 (SA2)**:
 
     -   **Word limit**: 2500 (UG, PG 10 credits); 4000 (PG 20 credits). 15% over is allowed.
 
-    -   **Due date: Thursday 15 December 2022 at noon (Week 13).**
+    -   **Due date: Thursday 14 December 2022 at noon (Week 13).**
 
 See below for details.
+
+The following instructions apply to **all the assessments.**
+
+-   It is expected that you **include citations to real-world work that show you have engaged with the relevant linguistic literature**. For example, if you chose to write an essay on the antipassive construction of your conlang, you will have to read and cite appropriate literature on antipassive and other valency changing devices.
+
+-   Furthermore, you are expected to **follow writing style and formatting conventions as used in the field of linguistics**. A good summary of most of these can be found in the [Generic Style Rules for Linguistics](https://www.eva.mpg.de/lingua/pdf/GenericStyleRules.pdf).
 
 ## Formative assessments
 
@@ -33,25 +39,84 @@ More details and instructions for each formative assessment can be found in the 
 
 ## Summative assessments
 
-::: {.callout-important collapse="true"}
-## SA1: Draft of sketch grammar **due on 17 Nov 2022**
+For the two summative assessments you can pick any of A, B, or C for SA1 and SA2, in any combination (although I recommend to pick SA1-A if you are planning to pick SA2-A).
 
-**1500 words ±30%.**
+### SA1
+
+::: {.callout-important collapse="true"}
+#### A: Sketch grammar
+
+**1500 words +50%** over**.**
 
 -   Based on **Weeks 2-5**.
--   You should submit a **draft of the sketch grammar of the conlang** you are creating. The draft should contain at least the following sections:
+-   You should submit a **draft sketch grammar of the conlang** you are creating. The draft should contain at least the following sections:
     -   **Language context**.
     -   **Phonology**.
     -   **Lexicon** (for example, overview of word classes).
--   What you are expected to include in the section is the same as with the corresponding formative assessments, so please refer to the instructions of those on the [Syllabus](syllabus.html) page.
--   Furthermore, you are expected to follow writing style and formatting conventions as used in the field of linguistics. A good summary of most of these can be found in the [Generic Style Rules for Linguistics](https://www.eva.mpg.de/lingua/pdf/GenericStyleRules.pdf).
+    -   **Verbs**.
+-   What you are expected to include in each section is the same as with the corresponding formative assessments, so please refer to the instructions above.
 :::
 
 ::: {.callout-important collapse="true"}
-## SA2: Sketch grammar and glossed text **due on 15 Dec 2022**
+#### B: Diachronic reconstruction
+
+**1500 words +10% over**
+
+-   You will write an essay describing the diachronic reconstruction of your conlang or conlang family.
+
+-   You can choose which aspect to focus on: for example, reconstruction of the proto-language phonological system, discussion of the development of an ergative-absolutive system, a history of loanwords, etc... Your imagination is the limit.
+:::
+
+::: {.callout-important collapse="true"}
+#### C: Essay on specific aspect
+
+**1500 words +10% over**
+
+-   You will write an essay on a specific linguistic aspect of your conlang.
+
+-   You can choose which aspect to focus on. Your imagination is the limit.
+:::
+
+### SA2
+
+::: {.callout-important collapse="true"}
+#### A: Sketch grammar and glossed text
 
 **2500 words ±15%** (UG, PG 10 credits); **4000 words ±15%** (PG 20 credits)**.**
 
 -   Based on **Weeks 2-10**.
--   More info soon!
+-   If you have submitted the SA1-A assessment (sketch grammar) then you can work out new sections of your grammar and include a glossed short passage. Note that the word count includes the entire submission (including sections from SA1).
+-   The sketch grammar should contain at least the following sections (or equivalent):
+    -   **Language context**.
+    -   **Phonology**.
+    -   **Lexicon** (for example, overview of word classes).
+    -   **Verbs**.
+    -   **Nouns**.
+    -   **Syntax** (basic sentences).
+    -   **Glossed passage**.
+-   The glossed passage can be any genre (one paragraph or equivalent). This could be a short story, a song, a poem, a dialogue, etc. The passage should be glossed using interlinear glossing, with the appropriate formatting.
+:::
+
+::: {.callout-important collapse="true"}
+#### B: Diachronic reconstruction
+
+2500 words ±15% (UG, PG 10 credits); 4000 words ±15% (PG 20 credits).
+
+-   You will write an essay describing the diachronic reconstruction of your conlang or conlang family.
+
+-   If you have submitted SA1-B, you must to pick a different topic for this assessment.
+
+-   You can choose which aspect to focus on: for example, reconstruction of the proto-language phonological system, discussion of the development of an ergative-absolutive system, a history of loanwords, etc... Your imagination is the limit.
+:::
+
+::: {.callout-important collapse="true"}
+#### C: Essay on specific aspect
+
+2500 words ±15% (UG, PG 10 credits); 4000 words ±15% (PG 20 credits).
+
+-   You will write an essay on a specific linguistic aspect of your conlang.
+
+-   f you have submitted SA1-C, you must to pick a different aspect for this assessment.
+
+-   You can choose which aspect to focus on. Your imagination is the limit.
 :::

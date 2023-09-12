@@ -2,17 +2,17 @@
 title: "GR Seminar — Making a language"
 ---
 
-Welcome to the site of the Guided Research seminar *Making a language: conlanging and linguistic typology*.
+Welcome to the site of the Guided Research seminar *Making a language: the art and science of conlanging*.
 
 Here you can find the course overview. For more details check the [Syllabus](syllabus.html) and the [Assessment](assessment.html) page.
 
 ## Course description
 
-In this seminar, you will learn about **linguistic diversity and typology** of a variety of structures at many linguistic levels (phonology, morphology, syntax, etc) through the process of **creating a constructed language, or *conlang***.
+In this seminar, you will learn about and practice with **conlanging**, the process of **creating a constructed language, or conlang**.
 
-The seminar is built around the task of crafting a conlang from the ground up while researching common and rare linguistic patterns as found in the languages of the world. With the typological knowledge you will acquire by consulting grammars and linguistic overviews, you will learn how to put together a basic grammar for your own conlang and how to write a grammar sketch.
+The seminar is built around the task of crafting a conlang from the ground up while researching about common and rare linguistic patterns as found in the languages of the world, grammar writing and historical reconstruction. Through step-by-step guidance, you will learn how to develop your conlang.
 
-The seminar will be assessed on the basis of the grammar sketch of your designed conlang, including a short written passage in your conlang accompanied by interlinear glossing. See the [Assesment](assessment.html) page for details.
+You will be able to choose your assessment task from the following: a grammar sketch, which will also include a short written passage in your conlang accompanied by interlinear glossing; or the description of a constructed history of your conlang or conlang families; or an in-depth analysis of a specific phenomenon in your conlang.
 
 ## Course overview
 
