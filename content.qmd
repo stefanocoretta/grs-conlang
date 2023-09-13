@@ -1,18 +1,18 @@
 ---
-title: "Syllabus"
+title: "Course content"
 editor: visual
 ---
 
-Here you can find a more detailed syllabus of the course.
+Here you can find a week-by-week breakdown of the course.
 
-Please note that I expect you to come to every class **prepared**, which mean:
+Please note that I expect you to come to every class **prepared**, which mean:s
 
 1.  You have read that week's **readings** and
 2.  You have completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
 
-**Formative assessments** are due at noon on the day of the seminar. These are designed for you to receive feedback on parts of your conlang's reference grammar (which will be built in into your second summative assessment). Note that formative assessments are based on the topic of the previous week.
+**Formative assessments** are due at noon on the day of the seminar. These are designed for you to receive feedback on parts of your conlang's grammar. Note that each formative assessment is based on the topic of the previous week.
 
-More information on **formative and summative assessments** can be found on the [Assessment](assessment.html) page.
+More information on **formative and summative assessments** can be found on the [Assessment](assessment.qmd) page.
 
 The [**reading list**]{.underline} for this seminar can be found [here](https://eu01.alma.exlibrisgroup.com/leganto/public/44UOE_INST/lists/38657069480002466?auth=SAML).
 
@@ -23,7 +23,7 @@ There is no class in Week 1.
 ## Week 2: Conlanging and the languages of the world
 
 ::: {.callout-tip collapse="true"}
-## Readings
+### Readings
 
 -   [Conlanging 101](https://conlang.org/26c3.pdf) by Sai Emrys, Alex Fink and David Peterson.
     -   An introduction to *conlanging*, the art of constructing artificial languages.
@@ -39,19 +39,19 @@ The following are readings that you can skim through in Week 1 and read at your 
 :::
 
 ::: {.callout-warning collapse="true"}
-## Homework - Adopt a language
+### Homework - Adopt a language
 
-Pick a language you are curious about and find a descriptive grammar of that language in the library.
+**Pick a language you are curious about and find a descriptive grammar of that language through the library (either digital or print).**
 
 -   You can choose any language, except "big" languages like English, Spanish, Mandarin, Japanese, Arabic, French, German, ... (what's the fun in that!). I strongly recommend you to pick languages from language families you are the least familiar with.
 -   Find inspiration on Glottolog: <https://glottolog.org>.
--   **Remember to bring the descriptive grammar of your "adopted language" to class.**
+-   **Go to Piazza (link on Learn) and make a new note** with name of the language, language family, location, features of interest, why you picked that language.
 :::
 
 ## Week 3: Sound systems
 
 ::: {.callout-important collapse="true"}
-## Formative 1: Language context
+### Formative 1: Language context
 
 Submit **one or two paragraphs of language context** for your conlang. Remember to give a name to your conlang (you can change this later).
 
@@ -61,24 +61,24 @@ Submit **one or two paragraphs of language context** for your conlang. Remember 
 :::
 
 ::: {.callout-tip collapse="true"}
-## Readings
+### Readings
 
 -   How to Create a Language, Ch [Sounds](https://www.angelfire.com/scifi2/nyh/how__all.html).
 -   Gordon, Matthew. 2016. *Phonological typology*. Ch 3.
 :::
 
 ::: {.callout-warning collapse="true"}
-## Homework
+### Homework
 
 -   Find the phonemic inventories of two languages that are related to the "adopted language" you picked in Week 2.
--   Create a post on Piazza with the phonemic inventories of your adopted language plus those of the two related languages you picked.
+-   Create a note on Piazza with the phonemic inventories of your adopted language plus those of the two related languages you picked.
 -   Check out phonemic inventory tendencies on the [Universals Archive](https://typo.uni-konstanz.de/rara/category/universals-archive/).
 :::
 
-## Week 5: The lexicon
+## Week 4: The lexicon
 
 ::: {.callout-important collapse="true"}
-## Formative 2: Phonemic inventory
+### Formative 2: Phonemic inventory
 
 Submit the phonemic inventory of your conlang.
 
@@ -88,22 +88,23 @@ Submit the phonemic inventory of your conlang.
 :::
 
 ::: {.callout-tip collapse="true"}
-## Readings
+### Readings
 
 -   LCK, Ch *Word building*.
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 2.
 :::
 
 ::: {.callout-warning collapse="true"}
-## Homework
+### Homework
 
 -   Which word classes are there in your adopted language?
+-   Post a note on Piazza about the word classes in your adopted language, with examples.
 :::
 
-## Week 6: Events, actions and verbs
+## Week 5: Events, actions and verbs
 
 ::: {.callout-important collapse="true" icon="false"}
-## Formative 3: Swadesh list
+### Formative 3: Swadesh list
 
 Submit a **Swadesh list of your conlang with a paragraph describing the main features of the lexicon**.
 
@@ -117,7 +118,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 :::
 
 ::: {.callout-tip collapse="true" icon="false"}
-## Readings
+### Readings
 
 -   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 7.
 
@@ -125,15 +126,16 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 :::
 
 ::: {.callout-warning collapse="true" icon="false"}
-## Homework
+### Homework
 
 -   What characteristics of verbs in the adopted language you picked caught your attention and why?
+-   Post a note on Piazza with your answer to that question.
 :::
 
 ## Week 7: Objects and nouns
 
 ::: {.callout-important collapse="true" icon="false"}
-## Formative 4: Morphosyntax of verbs (action predication)
+### Formative 4: Morphosyntax of verbs (action predication)
 
 Submit one/two pages that explain the morphosyntax of your conlang's verbal system.
 
@@ -142,58 +144,58 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 :::
 
 ::: {.callout-tip collapse="true" icon="false"}
-## Readings
+### Readings
 
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 5.
 :::
 
 ::: {.callout-warning collapse="true" icon="false"}
-## Homework
+### Homework
 
 -   What characteristics of nouns in the adopted language you picked caught your attention and why?
 :::
 
 ## Week 8: Basic clauses
 
+::: {.callout-important collapse="true" icon="false"}
+### Summative 1
+
+Please, check the [Assessment](assessment.qmd) page.
+:::
+
 ::: {.callout-tip collapse="true" icon="false"}
-## Readings
+### Readings
 
 -   Croft, Bill. 2003. *Typology and universals*. Ch 5.5.
 -   Cristofaro, Sonia. 2012. *Cognitive explanations, distributional evidence, and diachrony: Theory and data in cognitive linguistics*. Sec 1-2.
 :::
 
 ::: {.callout-warning collapse="true" icon="false"}
-## Homework
+### Homework
 
 -   Which syntactic aspect of the adopted language you picked caught your attention and why?
 :::
 
 ## Week 9: Modification and subordination
 
-::: {.callout-important collapse="true" icon="false"}
-## Summative 1
-
-Please, check the [Assessment](assessment.html) page.
-:::
-
 ::: {.callout-tip collapse="true" icon="false"}
-## Readings
+### Readings
 
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 4.
 :::
 
 ::: {.callout-warning collapse="true"}
-# Homework
+### Homework
 
 Translate a couple of sentences in your conlang and post them on Piazza with a minimal explanation (and glossing if you feel like).
 
 You can get inspired by this list: [Conlang Syntax Test Cases](https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html)
 :::
 
-## Week 11: Interlinear glossing
+## Week 10: Interlinear glossing
 
 ::: {.callout-important collapse="false" icon="false"}
-## Formative 5: Nouns and basic clauses
+### Formative 5: Nouns and basic clauses
 
 Submit an overview of your conlang morphosyntax.
 
@@ -205,7 +207,7 @@ Submit an overview of your conlang morphosyntax.
 :::
 
 ::: {.callout-warning collapse="false" icon="false"}
-## Homework
+### Homework
 
 -   If you haven't done so, familiarise yourself with LaTeX: <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>.
 
@@ -215,7 +217,7 @@ Submit an overview of your conlang morphosyntax.
 ## Week 13
 
 ::: {.callout-important collapse="true" icon="false"}
-## Summative 2
+### Summative 2
 
-Please, check the [Assessment](assessment.html) page.
+Please, check the [Assessment](assessmentqmd) page.
 :::

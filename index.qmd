@@ -4,7 +4,7 @@ title: "GR Seminar — Making a language"
 
 Welcome to the site of the Guided Research seminar *Making a language: the art and science of conlanging*.
 
-Here you can find the course overview. For more details check the [Syllabus](syllabus.html) and the [Assessment](assessment.html) page.
+Here you can find the course overview. For more details check the [Course content](content.qmd) and the [Assessment](assessment.qmd) page.
 
 ## Course description
 
