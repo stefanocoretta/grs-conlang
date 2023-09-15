@@ -36,6 +36,16 @@ The following are readings that you can skim through in Week 1 and read at your 
     -   Classical book on linguistic typology (and typological linguistics). The first chapter introduces you to typological linguistics. Pay special attention to the *Problem of cross-linguistic variability*.
 -   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 1.
     -   Writing a reference grammar is an art and a science in itself. This textbook covers the main practical aspects of how to go about writing a grammar. Chapter 1 focusses on what a reference grammar is and its structure and offers guidance on linguistic analysis and argumentation.
+
+**Other conlanging books**
+
+-   *Advanced Language Construction* by Mark Rosenfelder.
+
+-   *The Syntax Construction Kit* by Mark Rosenfelder.
+
+-   *In the Land of Invented Languages* by Akira Okrand.
+
+-   *A Secret Vice* by JRR Tolkien.
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -108,7 +118,7 @@ Submit the phonemic inventory of your conlang.
 
 Submit a **Swadesh list of your conlang with a paragraph describing the main features of the lexicon**.
 
--   Please, use [this template](https://docs.google.com/spreadsheets/d/15X0cIHE9OiCwQnGeGLulGuh2QkVXJIZgQ0Mf4VZBRNA/edit?usp=sharing).
+-   Please, use [this template](https://uoe-my.sharepoint.com/:x:/g/personal/scoretta_ed_ac_uk/EXYnibc31yZKlEvewSFq67oBSA3-M0v3BoDODhDF9V17WA?e=SsLbuE).
 
 -   It is up to you how many words you wish to submit, but you should include at least 25 words and words from at least 5 categories.
 
