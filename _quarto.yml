@@ -10,11 +10,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: syllabus.html
-        text: Syllabus
-      - href: assessment.html
+      - href: content.qmd
+        text: Content
+      - href: assessment.qmd
         text: Assessment
-      - href: showcase.html
+      - href: showcase.qmd
         text: Showcase
 
 format:
