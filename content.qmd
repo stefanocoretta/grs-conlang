@@ -10,6 +10,8 @@ Please note that I expect you to come to every class **prepared**, which mean:s
 1.  You have read that week's **readings** and
 2.  You have completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
 
+**Homework** is always due on Wednesday (day before class) at noon.
+
 **Formative assessments** are due at noon on the day of the seminar. These are designed for you to receive feedback on parts of your conlang's grammar. Note that each formative assessment is based on the topic of the previous week.
 
 More information on **formative and summative assessments** can be found on the [Assessment](assessment.qmd) page.
