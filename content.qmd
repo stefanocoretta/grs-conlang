@@ -5,7 +5,7 @@ editor: visual
 
 Here you can find a week-by-week breakdown of the course.
 
-Please note that I expect you to come to every class **prepared**, which mean:s
+Please note that I expect you to come to every class **prepared**, which means
 
 1.  You have read that week's **readings** and
 2.  You have completed that week's **homework tasks** and/or thought about the week's **questions**, as detailed below.
@@ -89,7 +89,7 @@ Submit **one or two paragraphs of language context** for your conlang. Remember 
 
 ## Week 4: The lexicon
 
-::: {.callout-important collapse="false"}
+::: {.callout-important collapse="true"}
 ### Formative 2: Phonemic inventory
 
 Submit the phonemic inventory of your conlang.
@@ -99,14 +99,14 @@ Submit the phonemic inventory of your conlang.
 -   Feel free to expand on any aspect of the sound system of your conlang.
 :::
 
-::: {.callout-tip collapse="false"}
+::: {.callout-tip collapse="true"}
 ### Readings
 
 -   LCK, Ch *Word building*.
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 2.
 :::
 
-::: {.callout-warning collapse="false"}
+::: {.callout-warning collapse="true"}
 ### Homework
 
 -   Which word classes are there in your adopted language?
@@ -115,7 +115,7 @@ Submit the phonemic inventory of your conlang.
 
 ## Week 5: Events, actions and verbs
 
-::: {.callout-important collapse="true" icon="false"}
+::: {.callout-important collapse="false" icon="false"}
 ### Formative 3: Swadesh list
 
 Submit a **Swadesh list of your conlang with a paragraph describing the main features of the lexicon**.
@@ -129,7 +129,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 -   If you already have a writing system/transliteration/transcription system in mind, you can also include that.
 :::
 
-::: {.callout-tip collapse="true" icon="false"}
+::: {.callout-tip collapse="false" icon="false"}
 ### Readings
 
 -   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 7.
@@ -137,7 +137,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 2.
 :::
 
-::: {.callout-warning collapse="true" icon="false"}
+::: {.callout-warning collapse="false" icon="false"}
 ### Homework
 
 -   What characteristics of verbs in the adopted language you picked caught your attention and why?
