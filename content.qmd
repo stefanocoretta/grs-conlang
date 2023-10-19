@@ -144,6 +144,10 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 -   Post a note on Piazza with your answer to that question.
 :::
 
+## Week 6: Catch-up week (no class)
+
+There will be no class this week.
+
 ## Week 7: Objects and nouns
 
 ::: {.callout-important collapse="true" icon="false"}
@@ -233,3 +237,4 @@ Submit an overview of your conlang morphosyntax.
 
 Please, check the [Assessment](assessmentqmd) page.
 :::
+
