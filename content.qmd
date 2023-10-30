@@ -115,7 +115,7 @@ Submit the phonemic inventory of your conlang.
 
 ## Week 5: Events, actions and verbs
 
-::: {.callout-important collapse="false" icon="false"}
+::: {.callout-important collapse="true" icon="false"}
 ### Formative 3: Swadesh list
 
 Submit a **Swadesh list of your conlang with a paragraph describing the main features of the lexicon**.
@@ -129,7 +129,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 -   If you already have a writing system/transliteration/transcription system in mind, you can also include that.
 :::
 
-::: {.callout-tip collapse="false" icon="false"}
+::: {.callout-tip collapse="true" icon="false"}
 ### Readings
 
 -   Aikhenvald, Alexandra. 2014. *The art of grammar: A practical guide*. Ch 7.
@@ -137,7 +137,7 @@ Submit a **Swadesh list of your conlang with a paragraph describing the main fea
 -   Croft, William. 2022. *Morphosyntax: Constructions of the world's languages*. Ch 2.
 :::
 
-::: {.callout-warning collapse="false" icon="false"}
+::: {.callout-warning collapse="true" icon="false"}
 ### Homework
 
 -   What characteristics of verbs in the adopted language you picked caught your attention and why?
@@ -150,7 +150,7 @@ There will be no class this week.
 
 ## Week 7: Objects and nouns
 
-::: {.callout-important collapse="true" icon="false"}
+::: {.callout-important collapse="false" icon="false"}
 ### Formative 4: Morphosyntax of verbs (action predication)
 
 Submit one/two pages that explain the morphosyntax of your conlang's verbal system.
@@ -159,13 +159,13 @@ Submit one/two pages that explain the morphosyntax of your conlang's verbal syst
 -   Provide a description of how different verbal features (person, gender, number, tense, aspect, mood, evidentiality, ...?) are coded in your conlang (affixes, particles, ...?) and provide a few examples for each.
 :::
 
-::: {.callout-tip collapse="true" icon="false"}
+::: {.callout-tip collapse="false" icon="false"}
 ### Readings
 
 -   Haspelmath, Martin. 2010. *Understanding morphology*. Ch 5.
 :::
 
-::: {.callout-warning collapse="true" icon="false"}
+::: {.callout-warning collapse="false" icon="false"}
 ### Homework
 
 -   What characteristics of nouns in the adopted language you picked caught your attention and why?
@@ -237,4 +237,3 @@ Submit an overview of your conlang morphosyntax.
 
 Please, check the [Assessment](assessmentqmd) page.
 :::
-
