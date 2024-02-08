@@ -1,0 +1,19 @@
+---
+title: "Demaz"
+author: "Sadie Pearlstein"
+---
+
+**Demaz**, part of the Cushitic language family and inspired in part by Afar, an East Lowland Cushitic language, is spoken by the Demazan people in Okharf, a matriarchal community of around 4,000 inhabitants. Governed by a monarchy and its advisors, the Demazans live in small villages circling their Queen’s castle. Because of the surrounding mountainous topography, the Demazan people rarely receive visitors or leave their land. They live off the Earth, relying on hunting and foraging for their food. A peaceful people protected from threats by their environment, the Demazans prioritise family, farming, sewing, and storytelling, reflected in their language.
+
+Sentences in Demaz follow an SOV word order with highly inflected words composed of short roots and many affixes. Their default gender is feminine, which reflects their matriarchal organisation.
+
+
+```{=html}
+<div data-gloss>
+  <p>ono inarf-li-m ga-barz-∅-∅<>
+  <p>those mountain.PL.ACC 1SG.love.PRS.DCL/p>
+  <p>'I love those mountains.'</p>
+</div>
+
+<a class="btn btn-primary" href="../showcase/demaz-pearlstein.pdf" target="_blank" role="button">Grammar (PDF)</a>
+```
