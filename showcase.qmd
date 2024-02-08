@@ -4,6 +4,10 @@ title: "Showcase"
 
 This pages showcases work from students who took this class in previous years.
 
+## 2023-24
+
+-   [Demaz](showcase/demaz-pearlstein.qmd) by Sadie Pearlstein.
+
 ## 2022-23
 
 -   [**Arva**](showcase/arva-riessler.qmd) by Alma Rießler.
